@@ -50,6 +50,7 @@
     { "categoria": "Desarrollo", "nombre": "ip-api.com", "url": "http://ip-api.com/", "descripcion": "Geolocalización por IP (gratis solo HTTP).", "auth": "No", "https": "No", "cors": "No" },
     { "categoria": "Desarrollo", "nombre": "IPify", "url": "https://api.ipify.org/", "descripcion": "Tu IP pública, en un JSON.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "ipwho.is", "url": "https://ipwho.is/", "descripcion": "Información detallada de una dirección IP.", "auth": "No", "https": "Sí", "cors": "Sí" },
+    { "categoria": "Desarrollo", "nombre": "HispAPI", "url": "https://github.com/LopezDev7/hisp-api", "descripcion": "Datos falsos en español: usuarios, direcciones, productos, refranes y más.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "JSONPlaceholder", "url": "https://jsonplaceholder.typicode.com/", "descripcion": "Datos falsos para probar tus aplicaciones.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "npm registry", "url": "https://registry.npmjs.org/", "descripcion": "Paquetes de npm.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "PyPI", "url": "https://pypi.org/", "descripcion": "Paquetes de Python.", "auth": "No", "https": "Sí", "cors": "Sí" },

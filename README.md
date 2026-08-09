@@ -6,7 +6,7 @@
 ![Licencia](https://img.shields.io/github/license/LopezDev7/public-apis-es?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Lista curada de **APIs públicas y gratuitas** documentadas en español, con **93 APIs** organizadas en **22 categorías**.
+Lista curada de **APIs públicas y gratuitas** documentadas en español, con **94 APIs** organizadas en **22 categorías**.
 
 Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus proyectos, demos y side projects. No listamos APIs que pidan pagar por empezar.
 
@@ -90,6 +90,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Imágenes de Docker. | No | Sí | Sí |
 | [GitHub API](https://docs.github.com/rest) | Todo lo que hace GitHub, por API. | No | Sí | Sí |
 | [GitLab API](https://docs.gitlab.com/ee/api/) | Gestión de proyectos en GitLab. | No | Sí | Sí |
+| [HispAPI](https://github.com/LopezDev7/hisp-api) | Datos falsos en español: usuarios, direcciones, productos, refranes y más. | No | Sí | Sí |
 | [httpbin](https://httpbin.org/) | Endpoints de prueba para peticiones HTTP. | No | Sí | Sí |
 | [ip-api.com](http://ip-api.com/) | Geolocalización por IP (gratis solo HTTP). | No | No | No |
 | [IPify](https://api.ipify.org/) | Tu IP pública, en un JSON. | No | Sí | Sí |
