@@ -6,7 +6,7 @@
 ![Licencia](https://img.shields.io/github/license/LopezDev7/public-apis-es?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Lista curada de **APIs públicas y gratuitas** documentadas en español, con **94 APIs** organizadas en **22 categorías**.
+Lista curada de **APIs públicas y gratuitas** documentadas en español, con **97 APIs** organizadas en **23 categorías**.
 
 Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus proyectos, demos y side projects. No listamos APIs que pidan pagar por empezar.
 
@@ -19,6 +19,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 - [Anticipación meteorológica](#anticipacion-meteorologica)
 - [Criptomonedas](#criptomonedas)
 - [Datos abiertos (España)](#datos-abiertos-españa)
+- [Datos abiertos (Colombia)](#datos-abiertos-colombia)
 - [Desarrollo](#desarrollo)
 - [Deportes](#deportes)
 - [Educación](#educacion)
@@ -82,6 +83,14 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 | [Datos abiertos Ayuntamiento de Madrid](https://datos.madrid.es/) | Datos abiertos de la ciudad de Madrid. | No | Sí | Desconocido |
 | [datos.gob.es](https://datos.gob.es/) | Portal de datos abiertos del Gobierno de España. | No | Sí | Desconocido |
 | [INE](https://servicios.ine.es/wstempus/) | Series estadísticas oficiales de España (TEMPUS). | No | Sí | Desconocido |
+
+### Datos abiertos (Colombia)
+
+| Nombre | Descripción | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [DANE](https://www.dane.gov.co/) | Cifras oficiales de población, economía y más en Colombia. | No | Sí | Desconocido |
+| [Datos Abiertos Bogotá](https://datosabiertos.bogota.gov.co/) | Datos abiertos de la ciudad de Bogotá. | No | Sí | Desconocido |
+| [Datos Abiertos Colombia](https://datos.gov.co/) | Portal oficial de datos abiertos del Gobierno de Colombia. | No | Sí | Desconocido |
 
 ### Desarrollo
 
