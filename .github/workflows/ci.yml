@@ -1,0 +1,31 @@
+name: Validar datos y enlaces
+
+on:
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 3 1 * *"
+  workflow_dispatch:
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validar estructura y regenerar README
+        run: node scripts/generate.mjs
+
+      - name: Comprobar que el README está al día
+        run: |
+          git diff --exit-code -- README.md
+        if: github.event_name == 'pull_request'
+
+      - name: Comprobar enlaces
+        run: node scripts/check_links.mjs
